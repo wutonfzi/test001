@@ -5,3 +5,4 @@ num3 = 30
 num4 = 40
 nun5 = 50
 num6 = 60
+num7 = 70
